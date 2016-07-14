@@ -1,0 +1,8 @@
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\bin\Debug\DoubleVarAndFormatToString.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\bin\Debug\DoubleVarAndFormatToString.exe
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\bin\Debug\DoubleVarAndFormatToString.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\obj\Debug\DoubleVarAndFormatToString.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\obj\Debug\DoubleVarAndFormatToString.Properties.Resources.resources
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\obj\Debug\DoubleVarAndFormatToString.csproj.GenerateResource.Cache
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\obj\Debug\DoubleVarAndFormatToString.exe
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\DoubleVarAndFormatToString\obj\Debug\DoubleVarAndFormatToString.pdb
