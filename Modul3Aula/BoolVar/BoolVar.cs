@@ -18,9 +18,19 @@ namespace BoolVar
             int ui = Convert.ToInt32(Console.ReadLine());
             bool check1 = ui <= i.Length;
             bool check2 = ui < 0;
-            Console.WriteLine( check1);
-            Console.WriteLine(check2);
-            Console.WriteLine(i[ui-1]);
+            //Console.WriteLine( check1);
+            //Console.WriteLine(check2);
+            //Console.WriteLine(i[ui-1]);
+            bool exp1 = check1 && check2; //Logical "and"
+            bool exp2 = check1 || check2; //Logical "or"
+            bool exp3 = !check1; //Logical "not"
+
+            Console.WriteLine("Logical AND of "+check1.ToString()+" and "+check2.ToString()
+                +" is : " +exp1.ToString());
+            Console.WriteLine("Logical OR of "+check1.ToString()+" and "+check2.ToString()
+                +" is : "+exp2.ToString());
+            Console.WriteLine("Logical Negation of "+check1.ToString()+" is : "
+                +exp3.ToString());
 
         }
     }
