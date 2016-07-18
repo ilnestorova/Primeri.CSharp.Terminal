@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVar", "BoolVar\BoolVar.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{F85D5CD6-B502-43FB-818E-0B871D3911BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperator", "ConditionalOperator\ConditionalOperator.csproj", "{42315185-584A-4B7B-8437-5F36AFB421C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F85D5CD6-B502-43FB-818E-0B871D3911BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F85D5CD6-B502-43FB-818E-0B871D3911BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F85D5CD6-B502-43FB-818E-0B871D3911BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42315185-584A-4B7B-8437-5F36AFB421C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42315185-584A-4B7B-8437-5F36AFB421C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42315185-584A-4B7B-8437-5F36AFB421C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42315185-584A-4B7B-8437-5F36AFB421C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
