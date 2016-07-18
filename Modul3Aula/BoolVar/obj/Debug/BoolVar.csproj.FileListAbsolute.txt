@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\BoolVar\bin\Debug\BoolVar.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\BoolVar\bin\Debug\BoolVar.exe
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\BoolVar\bin\Debug\BoolVar.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\BoolVar\obj\Debug\BoolVar.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\BoolVar\obj\Debug\BoolVar.exe
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\BoolVar\obj\Debug\BoolVar.pdb
