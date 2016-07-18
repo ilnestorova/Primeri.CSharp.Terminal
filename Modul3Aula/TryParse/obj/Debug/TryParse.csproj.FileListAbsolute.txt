@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\TryParse\bin\Debug\TryParse.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\TryParse\obj\Debug\TryParse.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\TryParse\bin\Debug\TryParse.exe
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\TryParse\bin\Debug\TryParse.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\TryParse\obj\Debug\TryParse.exe
+C:\AulaNew\csharp.primeri.terminal\Modul3Aula\TryParse\obj\Debug\TryParse.pdb

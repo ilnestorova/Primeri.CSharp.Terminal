@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatToStringDoubleVar", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolVar", "BoolVar\BoolVar.csproj", "{C99F0275-C484-4D1D-AA19-091F72ADB19D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{F85D5CD6-B502-43FB-818E-0B871D3911BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C99F0275-C484-4D1D-AA19-091F72ADB19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C99F0275-C484-4D1D-AA19-091F72ADB19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C99F0275-C484-4D1D-AA19-091F72ADB19D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85D5CD6-B502-43FB-818E-0B871D3911BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85D5CD6-B502-43FB-818E-0B871D3911BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85D5CD6-B502-43FB-818E-0B871D3911BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85D5CD6-B502-43FB-818E-0B871D3911BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
