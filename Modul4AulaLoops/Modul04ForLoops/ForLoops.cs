@@ -57,15 +57,39 @@ namespace Modul04ForLoops
             Console.WriteLine(string.Join(" ", a));
             */
 
-            string[] table = { "John", "George", "Gergana" };
-            //antetka na table
-            Console.WriteLine("Name");
-            Console.WriteLine("==========");
-            //body of the table
-            for (int i = 0; i < table.Length; i++)
+            /* string[] table = { "John", "George", "Gergana" };
+             //antetka na table
+             Console.WriteLine("Name");
+             Console.WriteLine("==========");
+             //body of the table
+             for (int i = 0; i < table.Length; i++)
+             {
+                 Console.WriteLine(table[i]);
+             }
+             */
+            string[,] table2 = { 
+            { "Ivan",    "Georgiev",     "12"},
+            { "George",  "Ivanov",       "19"},
+            { "Maria",   "Georgieva",    "22"},
+            { "Ana",     "Gerganova",    "52"},
+            { "Gergana",  "Mihailova",    "55"},
+            { "Ivanka",  "Strashimirova", "16"},
+            { "Drozd",   "Simeonov",      "10"} };
+            //antetka na tablicata
+            Console.WriteLine("Name".PadRight(15)+"Surname".PadRight(15)+"Age".PadRight(15));//za formatirane na tekst v ""
+                                                                                             // Console.WriteLine("{ 0,15} { 1,15} { 2,15}",Name,Surname,Age); tova se izpolzva pri predvaritelno zadadeni promenlivi
+            Console.WriteLine("============================================");
+            for(int i=0;i<table2.Length/3;i++)
             {
-                Console.WriteLine(table[i]);
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write(table2[i, j].PadRight(15));
+                }
+                Console.WriteLine();
             }
+
+           
         }
+
     }
 }
