@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\Modul04ForLoops\bin\Debug\Modul04ForLoops.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\Modul04ForLoops\bin\Debug\Modul04ForLoops.exe
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\Modul04ForLoops\bin\Debug\Modul04ForLoops.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\Modul04ForLoops\obj\Debug\Modul04ForLoops.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\Modul04ForLoops\obj\Debug\Modul04ForLoops.exe
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\Modul04ForLoops\obj\Debug\Modul04ForLoops.pdb
