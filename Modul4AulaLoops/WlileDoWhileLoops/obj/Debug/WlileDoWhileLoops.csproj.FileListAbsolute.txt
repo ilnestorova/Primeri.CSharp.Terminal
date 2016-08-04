@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\WlileDoWhileLoops\bin\Debug\WlileDoWhileLoops.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\WlileDoWhileLoops\bin\Debug\WlileDoWhileLoops.exe
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\WlileDoWhileLoops\bin\Debug\WlileDoWhileLoops.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\WlileDoWhileLoops\obj\Debug\WlileDoWhileLoops.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\WlileDoWhileLoops\obj\Debug\WlileDoWhileLoops.exe
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\WlileDoWhileLoops\obj\Debug\WlileDoWhileLoops.pdb
