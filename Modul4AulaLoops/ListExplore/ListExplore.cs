@@ -13,7 +13,7 @@ namespace ListExplore
             //List
             
         {
-            
+           /* 
             string userinput = "";
             List<int> mylist = new List<int>();
             //Add to the List another values
@@ -60,19 +60,27 @@ namespace ListExplore
                 //Size of List
 
             } while (userinput != "exit");
-            
-          /*  List<string> z = new List<string>();
+           */ 
+           List<string> z = new List<string>();
             z.Add("apple");
             z.Add("pear");
             z.Add("marmalade");
             z.Add("grapes");
-            int i = z.IndexOf("marmalade");
+            /*int i = z.IndexOf("marmalade");
             z.RemoveAt(i);
             foreach(string x in z)
             {
                 Console.WriteLine(x);
             }
             */
+            z.Add("apricot");
+            z.Add("oringe");
+            z.Add("tree");
+            z.Sort();
+            Console.WriteLine(string.Join(",",z));
+            z.Reverse();
+            Console.WriteLine(string.Join(",", z));
+
         }
     }
 }
