@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\ForeachLoop\bin\Debug\ForeachLoop.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\ForeachLoop\bin\Debug\ForeachLoop.exe
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\ForeachLoop\bin\Debug\ForeachLoop.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\ForeachLoop\obj\Debug\ForeachLoop.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\ForeachLoop\obj\Debug\ForeachLoop.exe
+C:\AulaNew\csharp.primeri.terminal\Modul4AulaLoops\ForeachLoop\obj\Debug\ForeachLoop.pdb
