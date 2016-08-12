@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\bin\Debug\Methods.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\bin\Debug\Methods.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\bin\Debug\Methods.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\obj\Debug\Methods.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\obj\Debug\Methods.pdb
