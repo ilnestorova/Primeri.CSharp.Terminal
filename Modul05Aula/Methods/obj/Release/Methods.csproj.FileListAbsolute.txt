@@ -1,0 +1,5 @@
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\bin\Release\Methods.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\bin\Release\Methods.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\bin\Release\Methods.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\obj\Release\Methods.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\Methods\obj\Release\Methods.pdb

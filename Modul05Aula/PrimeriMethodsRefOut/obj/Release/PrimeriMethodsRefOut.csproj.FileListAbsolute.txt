@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PrimeriMethodsRefOut\bin\Release\PrimeriMethodsRefOut.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PrimeriMethodsRefOut\obj\Release\PrimeriMethodsRefOut.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PrimeriMethodsRefOut\bin\Release\PrimeriMethodsRefOut.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PrimeriMethodsRefOut\bin\Release\PrimeriMethodsRefOut.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PrimeriMethodsRefOut\obj\Release\PrimeriMethodsRefOut.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PrimeriMethodsRefOut\obj\Release\PrimeriMethodsRefOut.pdb
