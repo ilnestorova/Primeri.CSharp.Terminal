@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\MethodsAndArrays\bin\Release\MethodsAndArrays.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\MethodsAndArrays\bin\Release\MethodsAndArrays.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\MethodsAndArrays\bin\Release\MethodsAndArrays.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\MethodsAndArrays\obj\Release\MethodsAndArrays.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\MethodsAndArrays\obj\Release\MethodsAndArrays.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\MethodsAndArrays\obj\Release\MethodsAndArrays.pdb
