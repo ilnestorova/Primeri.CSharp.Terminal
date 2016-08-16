@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeriMethodsRefOut", "Pri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsAndArrays", "MethodsAndArrays\MethodsAndArrays.csproj", "{6209DB43-FDD1-42AE-B91D-5A474FEB91ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassExplorer", "ClassExplorer\ClassExplorer.csproj", "{59E205DB-4EB6-487B-A265-A366A40E569C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6209DB43-FDD1-42AE-B91D-5A474FEB91ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6209DB43-FDD1-42AE-B91D-5A474FEB91ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6209DB43-FDD1-42AE-B91D-5A474FEB91ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E205DB-4EB6-487B-A265-A366A40E569C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E205DB-4EB6-487B-A265-A366A40E569C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E205DB-4EB6-487B-A265-A366A40E569C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E205DB-4EB6-487B-A265-A366A40E569C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

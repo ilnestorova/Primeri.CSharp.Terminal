@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\ClassExplorer\bin\Release\ClassExplorer.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\ClassExplorer\bin\Release\ClassExplorer.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\ClassExplorer\bin\Release\ClassExplorer.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\ClassExplorer\obj\Release\ClassExplorer.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\ClassExplorer\obj\Release\ClassExplorer.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\ClassExplorer\obj\Release\ClassExplorer.pdb
