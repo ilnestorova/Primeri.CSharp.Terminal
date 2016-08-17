@@ -6,25 +6,40 @@ using System.Threading.Tasks;
 
 namespace ClassExplorer
 {
-    /* public class person
-     {
-         public string simplestring = "Tekst";
-         public person()
-             {
-             simplestring = "New tekst";
-             }
-     }
-     class ClassExplorer
-     {
-         static void Main(string[] args)
-         {
-             // class declaration 
-             person Nperson = new person();
-             // class laccess
-             Console.WriteLine(Nperson.simplestring);
-         }*/
+    public class person
+    {
+        public string simplestring = "T";
+        private string hiddenStr = "";
+        public string user = "";
+        public person(string IND)
+        {
+            if (IND == "Pass1") hiddenStr = "User1";
+            if (IND == "Pass2") hiddenStr = "User2";
+            user = hiddenStr;
+            if (hiddenStr.Length > 0) simplestring = "Wellcome " + user + " !";
+            else simplestring = "Access denied";
+        }
+    }
+    class ClassExplorer
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter the password");
+            string Nuser = Console.ReadLine();
+            // class declaration 
+            person Nperson = new person(Nuser);
+            // class access
+            Console.WriteLine(Nperson.simplestring);
+            Console.WriteLine(Nperson.user+", well done"+" !");
+
+        }
+   
+
+
+
+
     // Създаваме клас "човек"
-    public class chovek
+   /* public class chovek
     {
 
         // Всеки човек ще има "ime" и "godini". Това ще са свойства (properties)
@@ -50,8 +65,24 @@ namespace ClassExplorer
             Console.WriteLine("My name is  " + ime + "  and I am " + godini + " years old");
         }
 
-    }
+    }*/
 
+
+
+   /* public class Student
+    {
+        public string ime = "";
+        public double ocenka = 0.00;
+        public Student(string Nime, double Nocenka)
+        {
+            ime = Nime;
+            ocenka = Nocenka;
+        }
+        public void PrintStudent()
+        {
+            Console.WriteLine("Student" + ime + " has assessment " + ocenka);
+        }
+    }
     // Главният клас
     class MainClass
     {
@@ -60,19 +91,32 @@ namespace ClassExplorer
         public static void Main()
         {
 
-            // По същия начин по който дефинираме 'int' и 'string', 
-            // ще дефинираме променливите ivan,dragan, georgi 
-            // и ще ги инициализираме чрез конструкторите им
-            chovek ivan = new chovek("Ivan", 23);
+            List<Student> Grupa = new List<Student>();
+            Grupa.Add(new Student("Ivan", 4.2));
+            Grupa.Add(new Student("Petar", 3.6));
+            Grupa.Add(new Student("Anna", 5.5));
+            foreach (Student X in Grupa)
+            {
+                X.PrintStudent();
+            }
+            */
+        
+            /*
+              // По същия начин по който дефинираме 'int' и 'string', 
+              // ще дефинираме променливите ivan,dragan, georgi 
+              // и ще ги инициализираме чрез конструкторите им
+              chovek ivan = new chovek("Ivan", 23);
 
-            chovek dragan = new chovek("Dragan", 33);
+              chovek dragan = new chovek("Dragan", 33);
 
-            chovek georgi = new chovek("Georgi", 45);
+              chovek georgi = new chovek("Georgi", 45);
 
-            ivan.Print();
-            dragan.Print();
-            georgi.Print();
-        }
+              ivan.Print();
+              dragan.Print();
+              georgi.Print();
+          }
+          */
+      }
     }
-}
+
 
