@@ -1,0 +1,6 @@
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PlayWithAnts\bin\Release\PlayWithAnts.exe.config
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PlayWithAnts\obj\Release\PlayWithAnts.csprojResolveAssemblyReference.cache
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PlayWithAnts\bin\Release\PlayWithAnts.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PlayWithAnts\bin\Release\PlayWithAnts.pdb
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PlayWithAnts\obj\Release\PlayWithAnts.exe
+C:\AulaNew\csharp.primeri.terminal\Modul05Aula\PlayWithAnts\obj\Release\PlayWithAnts.pdb
